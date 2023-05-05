@@ -1,4 +1,4 @@
-import Termekek  from "./termek.js";
+import Termek from "./Termek.js";
 
 $(function (){
     new Termekek()
